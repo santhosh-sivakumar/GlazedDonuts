@@ -2,12 +2,10 @@
 
 ## Problem Statement
 
-```md
-Time: limit per test ```3``` seconds
-Memory: limit per test ```256``` megabytes
-Input: standard input
-Output: standard output
-```
+Time: ```limit per test 3 seconds```
+Memory: ```limit per test 256 megabytes```
+Input: ```standard input```
+Output: ```standard output```
 
 A palindrome is a string that reads the same in both directions, for example ```z```, ```uwu```, or ```moom```.
 
