@@ -2,9 +2,9 @@
 
 ## Problem Statement
 
-```text
-Time: limit per test 3 seconds
-Memory: limit per test 256 megabytes
+```md
+Time: limit per test ```3``` seconds
+Memory: limit per test ```256``` megabytes
 Input: standard input
 Output: standard output
 ```
