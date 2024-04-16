@@ -1,8 +1,8 @@
 # H. Palindrome
 
 ```
-Time: limit per test 3 seconds
-Memory: limit per test 256 megabytes
+Time: limit per test ```3``` seconds
+Memory: limit per test ```256``` megabytes
 Input: standard input
 Output: standard output
 ```
